@@ -19,7 +19,13 @@
     #gallery figure {
         width: 100%;
     }
+}
+
+@media (max-width: 480px) {
     
+    #gallery {
+        width: 100%;
+    }
 }
 
 /*
